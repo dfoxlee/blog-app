@@ -1,0 +1,59 @@
+.wrapper {
+   width: 90vw;
+   max-width: 600px;
+   margin: 50px auto 0;
+}
+
+.returnLink {
+   position: absolute;
+   top: 30px;
+   left: 15%;
+   padding: 5px 15px;
+   border: 1px solid;
+   border-radius: 100px;
+   text-decoration: none;
+}
+
+.avatar {
+   font-size: 10rem;
+}
+
+.formWrapper {
+   display: flex;
+   flex-flow: column;
+   align-items: center;
+}
+
+.inputWrapper {
+   display: flex;
+   flex-flow: column;
+   margin-top: 10px;
+}
+
+.label {
+   font-size: .75rem;
+}
+
+.input {
+   padding: 3px 10px;
+   font-size: 1.25rem;
+   margin-top: 3px;
+}
+
+.additional {
+   margin-top: 20px;
+}
+
+.navigateLink {
+   margin-left: 10px;
+   font-size: 1rem;
+}
+
+.authBtn {
+   margin-top: 30px;
+   background: none;
+   border-style: none;
+   padding: 5px 15px;
+   cursor: pointer;
+   border: 1px solid;
+}

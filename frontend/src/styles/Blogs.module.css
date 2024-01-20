@@ -1,0 +1,7 @@
+.wrapper {
+   width: 90vw;
+   max-width: 800px;
+   display: flex;
+   flex-flow: column;
+   margin: 30px auto 0;
+}

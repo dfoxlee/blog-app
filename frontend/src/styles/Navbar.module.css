@@ -1,0 +1,24 @@
+.wrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 90vw;
+   max-width: 1200px;
+   margin: 10px auto;
+}
+
+.authLink {
+   text-decoration: none;
+   margin-left: 10px;
+   border: 1px solid;
+   border-radius: 100px;
+   padding: 3px 10px;
+}
+
+.authBtn {
+   background: none;
+   border-style: none;
+   border: 1px solid;
+   cursor: pointer;
+   padding: 3px 10px;
+}

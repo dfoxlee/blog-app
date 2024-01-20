@@ -1,0 +1,33 @@
+.wrapper {
+   margin: 5px;
+   border: 1px solid;
+   padding: 10px;
+}
+
+.blog {
+   margin-top: 15px;
+   font-size: 1rem;
+   font-weight: 500;
+}
+
+.footerWrapper {
+   display: flex;
+   align-items: center;
+   margin-top: 30px;
+}
+
+.likeBtn {
+   margin-left: 15px;
+   display: flex;
+   align-items: center;
+   padding: 5px;
+   background: none;
+   border-style: none;
+   cursor: pointer;
+   /* border: 1px solid; */
+}
+
+.thumbsIcon {
+   font-size: 1.25rem;
+   margin-left: 5px;
+}
